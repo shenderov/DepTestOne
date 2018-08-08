@@ -7,5 +7,5 @@ import (
 
 func Hello() {
 	fmt.Println("This is dep two")
-	deptestone.Hello()
+	hellokostya.Hello()
 }
