@@ -2,10 +2,10 @@ package deptestone // import "github.com/shenderov/DepTestOne"
 
 import (
 	"fmt"
-	"github.com/shenderov/HelloKostya"
+	"github.com/shenderov/HelloGo"
 )
 
 func Hello() {
 	fmt.Println("This is dep two")
-	hellokostya.Hello()
+	hellogo.Hello()
 }
